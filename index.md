@@ -4,19 +4,19 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am currently an EngD student at Sun Yat-sen University, supervised by [Prof. Liang Lin](http://www.linliang.net/) and [Prof. Pengxu Wei](https://pengxuwei.github.io/).  I am a member of [HCP Lab](https://www.sysu-hcp.net/) (Human-Cyber-Physical Intelligence Integration Lab) leaded by Prof. Liang Lin.  Before that, I received the MEng and BEng in Computer Science and Technology at Sun Yat-sen University in 2023 and 2020, respectively, advised by Prof. Liang Lin, Prof. Cong Liu, and Prof. Pengxu Wei.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+My general research interest is to build trustworthy deep learning systems for computer vision and beyond. Specifically, I am focusing on:
+
+- **Machine Learning:** adversarial robustness, domain adaptation, causality in deep learning
+- **AI Generated Content (AIGC):** controllable image/video generation, detection/evaluation of AIGC
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Mar. 2023]** One paper on adversarially robust source-free domain adaptation is accepted to ICME 2023.
+- **[Mar. 2023]** One paper on large model fine-tuning and causality is accepted to CVPR 2023.
 
 {% include_relative _includes/publications.md %}
 
