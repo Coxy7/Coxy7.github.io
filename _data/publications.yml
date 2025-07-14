@@ -1,7 +1,7 @@
 main:
 
   - title: "Are High-Quality AI-Generated Images More Difficult for Models to Detect?"
-    authors: <strong>Yao Xiao</strong>, Binbin Yang, Weiyan Chen, Jiahao Chen, Zijie Cao, ZiYi Dong, Xiangyang Ji, Liang Lin, Wei Ke, Pengxu Wei
+    authors: <strong>Yao Xiao</strong>, Binbin Yang, Weiyan Chen, Jiahao Chen, Zijie Cao, Ziyi Dong, Xiangyang Ji, Liang Lin, Wei Ke, Pengxu Wei
     conference_short: ICML
     conference: Forty-second International Conference on Machine Learning (ICML), 2025.
     pdf: https://openreview.net/forum?id=sKYdVKE1tS
