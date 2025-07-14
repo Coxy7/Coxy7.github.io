@@ -1,3 +1,3 @@
 ## Services
 
-I serve as conference reviewer for ICML, ICLR, NeurIPS, SIGKDD, ICME, and journal reviewer for IEEE TNNLS.
+I serve as conference reviewer for ICML, ICLR, NeurIPS, AAAI, ACMMM, and journal reviewer for IEEE TNNLS, IEE TIP.

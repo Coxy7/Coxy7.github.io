@@ -1,5 +1,32 @@
 main:
 
+  - title: "Are High-Quality AI-Generated Images More Difficult for Models to Detect?"
+    authors: <strong>Yao Xiao</strong>, Binbin Yang, Weiyan Chen, Jiahao Chen, Zijie Cao, ZiYi Dong, Xiangyang Ji, Liang Lin, Wei Ke, Pengxu Wei
+    conference_short: ICML
+    conference: Forty-second International Conference on Machine Learning (ICML), 2025.
+    pdf: https://openreview.net/forum?id=sKYdVKE1tS
+    code: https://github.com/Coxy7/AIGI-Detection-Quality-Paradox
+    image: ./assets/img/teaser_icml2025.png
+    # notes: Oral
+
+  - title: "Towards Understanding the Robustness of Diffusion-Based Purification: A Stochastic Perspective"
+    authors: Yiming Liu*, Kezhao Liu*, <strong>Yao Xiao</strong>, Ziyi Dong, Xiaogang Xu, Pengxu Wei, Liang Lin
+    conference_short: ICLR
+    conference: The Thirteenth International Conference on Learning Representations (ICLR), 2025.
+    pdf: https://arxiv.org/pdf/2404.14309
+    code: https://github.com/LYMDLUT/ADDT
+    image: ./assets/img/teaser_iclr2025.png
+    # notes: Oral
+
+  - title: "Decoder-Only LLMs are Better Controllers for Diffusion Models"
+    authors: Ziyi Dong, <strong>Yao Xiao</strong>, Pengxu Wei, Liang Lin
+    conference_short: ACMMM
+    conference: Proceedings of the 32nd ACM International Conference on Multimedia (ACMMM), 2024.
+    pdf: https://arxiv.org/pdf/2502.04412
+    # code: https://github.com/Coxy7/RAT
+    image: ./assets/img/teaser_acmmm2024.png
+    # notes: Oral
+
   - title: "Adversarially Robust Source-free Domain Adaptation with Relaxed Adversarial Training"
     authors: <strong>Yao Xiao</strong>, Pengxu Wei, Cong Liu, Liang Lin
     conference_short: ICME
